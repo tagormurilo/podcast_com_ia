@@ -1,0 +1,114 @@
+Eu gostaria de um roteiro completo 
+para um Podcast curto de no máximo 5 min. 
+que sejam focado em Ciência de Dados, 
+um roteiro leve e de fácil entendimento 
+para quem não é da área, 
+gostaria que respeitasse 
+a seguinte estrutura:
+
+[Introdução]
+Apresentação do Podcast, 
+no qual seja convidativa 
+para seguir no áudio, 
+leve e bem humorada, 
+usando o [Nome] e [Apresentador].
+
+[Tema 1]
+Importância do Power BI 
+na área de ciência de dados, 
+com pequenos exemplos de utilidades 
+no dia a dia.
+
+[Tema 2]
+4 notícias reais 
+sobre a área de ciência de dados, 
+apresentando o título da notícia, 
+resumo, 
+data da publicação e fonte. 
+
+[Final]
+Encerramento usando [Nome] e [Apresentador], 
+de forma leve e tranquila, 
+usando uma frase marcante no final.
+
+## Variáveis usadas
+
+[Nome]= Grimório de Dados
+[Apresentador]= Tagor
+
+## Dicas 
+Caso esteja no mesmo chat, 
+não precisará declarar novamente
+a variável [Nome]
+
+## Resultados
+Roteiro — Episódio “O Feitiço do Dashboard: Como o Power BI Facilita Tudo”
+
+**Podcast:** Grimório de Dados
+**Apresentador:** Tagor
+
+---
+
+### [INTRODUÇÃO] (~45 segundos)
+
+**Tagor:**
+“Salve, salve, pessoal! Bem-vindos ao *Grimório de Dados*, esse pedacinho mágico onde a gente desvenda os feitiços da análise sem precisar virar um mago da matemática. Eu sou o Tagor, seu companheiro de varinha — quer dizer, de notebook — nessa jornada.
+
+No episódio de hoje, vamos falar sobre algo que é quase alquimia moderna: o **Power BI**, e por que essa ferramenta é tão valiosa no mundo da ciência de dados — mesmo para quem não vive analisando planilhas 24 horas por dia. Vem comigo!”
+
+---
+
+### [TEMA 1 — A importância do Power BI] (~1min30)
+
+**Tagor:**
+“O Power BI é uma ferramenta da Microsoft muito usada para transformar dados brutos em relatórios e dashboards visuais bem mais acessíveis do que tabelas cheias de números. Mas por que isso é tão importante na ciência de dados?
+
+* Primeiro, ele permite **conectar várias fontes de dados**: planilhas, bancos de dados, até serviços na nuvem. Você junta tudo num só lugar para analisar — sem precisar abrir 10 arquivos diferentes. ([DIO][1])
+* Depois, vem a **transformação e a modelagem de dados**: dá pra limpar dados, combinar tabelas e criar relacionamentos, usando a interface ou fórmulas com DAX — tudo isso para dar sentido para os dados antes de visualizá-los. ([DIO][1])
+* E, por fim, o que a maioria ama: **visualizações interativas** para criar gráficos, mapas, tabelas dinâmicas… com isso, você pode montar dashboards para acompanhar vendas, custos, métricas de produção ou até dados de clientes em tempo real. É super útil para gestores ou equipes que precisam tomar decisões rápidas. ([DIO][2])
+
+No dia a dia, isso significa menos tempo perdido copiando planilha para planilha, menos erro humano e mais poder para quem não é “cientista de dados raiz” tomar decisões embasadas. Então, se você acha que dados são chatos… o Power BI pode mudar seu ponto de vista.”
+
+---
+
+### [TEMA 2 — 4 notícias da área de Ciência de Dados] (~1min50)
+
+**Tagor:**
+“Agora vamos à rodada de **quatro notícias brilhando neste Grimório de Dados** — coisa leve, rápida, mas cheia de peso:
+
+1. **“Poder da ciência de dados na transformação do mercado de seguros”** — Painel marcado para o CQCS Insurtech & Inovação 2025, onde especialistas vão discutir como machine learning e análise de dados ajudam as seguradoras a precificar melhor, detectar fraudes e personalizar ofertas. ([CQCS][3])
+
+2. **“Brasil terá um dos cinco supercomputadores de IA mais potentes do mundo”** — Segundo debate no Senado, esse supercomputador vai reforçar a segurança de dados e a capacidade de executar modelos de IA bem complexos. ([Senado Federal][4])
+
+3. **“Amplo uso de IA em políticas públicas até 2028”** — Também no Senado, o governo prevê usar inteligência artificial em saúde e educação para melhorar atendimento em regiões remotas e otimizar recursos. ([Senado Federal][5])
+
+4. **“4ª Semana de Ciência de Dados e IA no Insper”** — Um evento que vai juntar profissionais, estudandes e curiosos de dados por três dias para trocar ideias, aprender e se inspirar. ([Insper][6])
+
+Essas notícias mostram bem como a ciência de dados está deixando de ser só “coisa de nerd” para virar parte estratégica de empresas, governo e educação.”
+
+---
+
+### [FINAL] (~40 segundos)
+
+**Tagor:**
+“E assim chegamos ao final de mais um episódio do *Grimório de Dados*! Obrigado por ter estado aqui comigo, Tagor, invocando um pouco de magia analítica no seu dia.
+
+Se você curtiu, não esquece de seguir o podcast, compartilhar com aquele amigo que vive pedindo relatório (ou que deveria pedir), e voltar para o próximo episódio — sempre tem um novo feitiço de dados para descobrir.
+
+Pra fechar com chave de ouro:
+**‘Dados sem visualização são só matéria-prima; com o Power BI, viram magia nas suas decisões!’**
+
+Até a próxima, pessoal!”
+
+---
+
+Se quiser, posso te dar **3 ideias de trilhas sonoras grátis** para gravar esse episódio e deixá-lo mais “mágico”!
+
+[1]: https://www.dio.me/articles/como-funciona-power-bi-a-poderosa-ferramenta-de-analise-de-dados?utm_source=chatgpt.com "Como funciona Power BI , a poderosa ferramenta de análise de dados | DIO Community | Power BI | DIO"
+[2]: https://www.dio.me/articles/power-bi-e-analise-de-dados-empresarial-transformando-informacao-em-acao?utm_source=chatgpt.com "Power BI e Análise de Dados Empresarial: Transformando Informação em Ação | Marcos Catapan | Power BI | DIO"
+[3]: https://cqcs.com.br/noticia/poder-da-ciencia-de-dados-na-transformacao-do-mercado-de-seguros-sera-tema-de-painel-no-cqcs-insurtech-inovacao-2025/?utm_source=chatgpt.com "Poder da ciência de dados na transformação do mercado ..."
+[4]: https://www12.senado.leg.br/noticias/videos/2025/10/brasil-tera-um-dos-cinco-supercomputadores-de-ia-mais-potentes-do-mundo-aponta-debate?utm_source=chatgpt.com "Brasil terá um dos cinco supercomputadores de IA mais ..."
+[5]: https://www12.senado.leg.br/noticias/materias/2025/10/22/em-debate-governo-preve-amplo-uso-de-ia-na-saude-e-na-educacao-ate-2028?utm_source=chatgpt.com "Em debate, governo prevê amplo uso de IA na saúde e na ..."
+[6]: https://www.insper.edu.br/pt/eventos/2025/11/4-edicao-semana-de-ciencia-de-dados-e-ia?utm_source=chatgpt.com "4º Edição - Semana de ciência de dados e IA”
+
+
