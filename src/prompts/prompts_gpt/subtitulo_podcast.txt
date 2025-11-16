@@ -1,0 +1,19 @@
+Agora com o [NOME] gere 5 exemplos de subtítulos 
+que tenham referência baseadas no mesmo universo 
+que foi gerado o nome do Podcast, 
+um texto extrovertido e animado 
+com apenas uma frase pequena.
+
+[NOME]=Grimório de Dados
+
+## Dicas
+Podemos colocar variáveis no prompt para 
+não digitar diversas vezes o mesmo texto
+neste caso eu usei apenas no nome, 
+mas pode ser usado também nas referências,
+o ideal é usar o mesmo chat para gerar todo
+o podcast pois assim ele ficará mais atento
+e preciso com as suas solicitações.
+
+## Resultado 
+Grimório de Dados - Seu booster diário de mana analítica!
