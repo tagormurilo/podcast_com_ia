@@ -23,7 +23,7 @@ O projeto visa transformar a ideia de um podcast em um episódio finalizado com 
 
 O fluxo de trabalho principal é executado através de uma sequência de prompts para integrar asrramentas de IA:
 
-1.  **Geração do Script:** O prompt de IA é fornecido ao LLM para criar o texto base (`/src/scripts/script_gerado.txt`).
+1.  **Geração do Script:** O prompt de IA é fornecido ao LLM para criar o texto base (`/src/prompts/prompts_gpt/roteiro_completo.txt`).
 2.  **Conversão de Áudio:** O script de texto é enviado ao serviço de TTS. O áudio mp3 é retornado e salvo (`/audio/raw_episode.mp3`).
 4.  **Geração da Capa:** Foi realizado um prompt para geração de uma capa para o PodCast (`/src/scripts/script_capa.txt`) e o arquivo gerado (`/Images/capa_podcast.jpg`).
 5.  **Enhancement:** O arquivo mp3 é submetido à ferramenta de pós-produção para tratamento de ruído e nivelamento. O episódio finalizado (`/audio/episodio_podcast.mp3`) é gerado.
