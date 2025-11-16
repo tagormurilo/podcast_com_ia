@@ -1,0 +1,4 @@
+Agora com o [NOME] gere 5 exemplos de subtítulos que tenham referência baseadas no mesmo universo que foi gerado o nome do Podcast, um texto extrovertido e animado com apenas uma frase pequena.
+
+No projeto foi usado.
+[NOME]=Grimório de Dados
