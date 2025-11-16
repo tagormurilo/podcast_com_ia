@@ -16,17 +16,17 @@ O projeto visa transformar a ideia de um podcast em um episódio finalizado com 
 | :--- | :--- | :--- |
 | **I. Ideação & Roteiro** | Chat GPT| Geração de ideias, estruturação do episódio e escrita dos scripts iniciais. |
 | **II. Geração de Voz** | ElevenLabs | Conversão do roteiro em áudio realista com vozes sintéticas de alta fidelidade (Text-to-Speech). |
-| **III. Geração de Voz** | Gemini |Conversão do roteiro em áudio realista com vozes sintéticas de alta fidelidade (Text-to-Speech). |
+| **III. Geração da Capa** | Gemini | Transformação da ideia do Podcast em um estilo visual, moldando o modelo e identidade. |
 | **IV. Pós-produção** | CapCut | Nivelamento de volume (masterização) e ajuste de qualidade final. |
 
 ## 🚀 Workflow
 
 O fluxo de trabalho principal é executado através de uma sequência de prompts para integrar asrramentas de IA:
 
-1.  **Geração do Script:** O prompt de IA é fornecido ao LLM para criar o texto base (`/scripts/script_gerado.txt`).
+1.  **Geração do Script:** O prompt de IA é fornecido ao LLM para criar o texto base (`/src/scripts/script_gerado.txt`).
 2.  **Conversão de Áudio:** O script de texto é enviado ao serviço de TTS. O áudio mp3 é retornado e salvo (`/audio/raw_episode.mp3`).
-4.  **Geração da Capa:** Foi realizado um prompt para geração de uma capa para o PodCast (`/scripts/script_capa.txt`) e o arquivo gerado (`/Images/capa_podcast.jpg`).
-5.  **Enhancement:** O arquivo mp3 é submetido à ferramenta de pós-produção para tratamento de ruído e nivelamento. O episódio finalizado (`/audio/final_episode.mp3`) é gerado.
+4.  **Geração da Capa:** Foi realizado um prompt para geração de uma capa para o PodCast (`/src/scripts/script_capa.txt`) e o arquivo gerado (`/Images/capa_podcast.jpg`).
+5.  **Enhancement:** O arquivo mp3 é submetido à ferramenta de pós-produção para tratamento de ruído e nivelamento. O episódio finalizado (`/audio/episodio_podcast.mp3`) é gerado.
 
 Você pode encontrar os scripts de automação em `/src`.
 
